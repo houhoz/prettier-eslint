@@ -28,7 +28,7 @@ npm install --save-dev  eslint-plugin-prettier
 
 prettier 配置
 
-```json
+```js
 // 常用配置相关解释
 printWidth: 100, // 超过最大值换行
 tabWidth: 4, // 缩进字节数
